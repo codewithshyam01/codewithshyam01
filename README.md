@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ghanashyam Budhathoki</h1>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 <h3 align="center">A passionate full stack developer and AI enthusiast from Nepal</h3>
