@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepcore.Codes</h1>
+<h1 align="center">Hi 👋, I'm Ghanashyam Budhathoki aka Deepcore.Codes</h1>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 <h3 align="center">A passionate web developer from Nepal</h3>
